@@ -1,0 +1,5 @@
+digraph AVLTree {
+    node [fontname="Arial", shape=circle];
+    20 -> 10;
+    20 -> 50;
+}

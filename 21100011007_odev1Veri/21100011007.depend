@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727602303 source:d:\proje\veri yapýlarý\deneme11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
